@@ -53,4 +53,8 @@
 | [A complete guide to the JAMstack and React E-commerce]()                                                           |                                                                                                                     |          |    |
 | [Typescript: The complete developer’s guide]()                                                                      |                                                                                                                     |          |    |
 | [Microservices with Node JS and React]()                                                                            |                                                                                                                     |          |    |
-| [100 days of code: The complete Python pro bootcamp](https://nlbsg.udemy.com/course/100-days-of-code/)              | Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps! |          |    |
+| [100 days of code: The complete Python pro bootcamp](https://nlbsg.udemy.com/course/100-days-of-code/)              | Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps! | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&logoWidth=20)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&logoWidth=20)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&logoWidth=20)
+![.ENV](https://img.shields.io/badge/-.ENV-ECD53F?logo=dotenv&logoColor=white&logoWidth=20)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&logoWidth=20)         |    |
