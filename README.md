@@ -10,7 +10,7 @@
 
 ## Resources
 
-| Course                                                                                                              | Description                                                                                                         | Platform | By |
+| Course                                                                                                              | Description                                                                                                         | Category |    |
 |---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|----------|----|
 | [Crash Course Electronics and PCB Design](https://nlbsg.udemy.com/course/crash-course-electronics-and-pcb-design/)  | Learn Electronics and PCB Design from the Ground up with Altium CircuitMaker and Labcenter Proteus                  | Udemy    |    |
 | [Introduction to Computer Networks for Non-Techies](https://nlbsg.udemy.com/course/introduction-to-computer-networks/)                                                               |                                                                                                                     | Udemy    |    |
@@ -19,7 +19,7 @@
 | [Build responsive real-world websites with HTML and CSS]()                                                          |                                                                                                                     | Udemy    |    |
 | [Advanced CSS and SASS]()                                                                                           |                                                                                                                     | Udemy    |    |
 | [MongoDB - The complete developer’s guide]()                                                                        |                                                                                                                     | Udemy    |    |
-| [JavaScript: The advanced concepts]()                                                                               |                                                                                                                     |          |    |
+| [JavaScript: The advanced concepts]()                                                                               |                                                                                                                     | ![JavaScript](https://img.shields.io/badge/Java-%E7%B1%BB%E5%88%AB-yellow)         |    |
 | [NodeJS - The complete guide]()                                                                                     |                                                                                                                     |          |    |
 | [Master the coding interview: Big tech (FAANG) interviews]()                                                        |                                                                                                                     |          |    |
 | [SQL - The complete developer’s guide]()                                                                            |                                                                                                                     |          |    |
