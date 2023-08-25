@@ -22,3 +22,9 @@
 
 ### Web development
 - [The Complete 2023 Web Development](https://nlbsg.udemy.com/course/the-complete-web-development-bootcamp/) - Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps
+
+| Course name                                                                                                        | Description                                                                                        | Platform | By |
+|--------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|----------|----|
+| [Crash Course Electronics and PCB Design](https://nlbsg.udemy.com/course/crash-course-electronics-and-pcb-design/) | Learn Electronics and PCB Design from the Ground up with Altium CircuitMaker and Labcenter Proteus | Udemy    |    |
+|                                                                                                                    |                                                                                                    |          |    |
+|                                                                                                                    |                                                                                                    |          |    |
