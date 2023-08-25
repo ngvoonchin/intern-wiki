@@ -135,7 +135,7 @@
 ![UML](https://img.shields.io/badge/-UML-FABD14?logo=uml&logoColor=white&logoWidth=20)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&logoWidth=20)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&logoWidth=20)
-![Vite](https://img.shields.io/badge/-Vite-#646CFF?logo=vite&logoColor=white&logoWidth=20)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&logoWidth=20)
 ![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?logo=web3dotjs&logoColor=white&logoWidth=20)
 ![WebAssembly](https://img.shields.io/badge/-WebAssembly-654FF0?logo=webassembly&logoColor=white&logoWidth=20)
 ![WebGL](https://img.shields.io/badge/-WebGL-990000?logo=webgl&logoColor=white&logoWidth=20)
