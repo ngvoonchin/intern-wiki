@@ -19,39 +19,39 @@
 | [Build responsive real-world websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) | Learn modern HTML5, CSS3 and web design by building a stunning website for your portfolio! Includes flexbox and CSS Grid | Udemy    |
 | [Advanced CSS and SASS](https://www.udemy.com/course/advanced-css-and-sass/) | The most advanced and modern CSS course on the internet: master flexbox, CSS Grid, responsive design, and so much more. | Udemy    |    |
 | [MongoDB - The complete developer’s guide](https://www.udemy.com/course/mongodb-the-complete-developers-guide/) |  | Udemy    |    
-| [JavaScript: The advanced concepts](https://www.udemy.com/course/advanced-javascript-concepts/) |  |          |
-| [NodeJS - The complete guide](https://www.udemy.com/course/nodejs-the-complete-guide/) |  |          |
-| [Master the coding interview: Big tech (FAANG) interviews](https://www.udemy.com/course/master-the-coding-interview-big-tech-faang-interviews/) | |          |
+| [JavaScript: The advanced concepts](https://www.udemy.com/course/advanced-javascript-concepts/) | Learn modern advanced JavaScript practices and be in the top 10% of JavaScript developers |          |
+| [NodeJS - The complete guide](https://www.udemy.com/course/nodejs-the-complete-guide/) | Master Node JS & Deno.js, build REST APIs with Node.js, GraphQL APIs, add Authentication, use MongoDB, SQL & much more! |          |
+| [Master the coding interview: Big tech (FAANG) interviews](https://www.udemy.com/course/master-the-coding-interview-big-tech-faang-interviews/) | Ace the Google, Amazon, Meta, Microsoft, Netflix coding interviews. Step by step guide for their toughest questions! |          |
 | [SQL - The complete developer’s guide](https://www.udemy.com/course/sql-the-complete-developers-guide-mysql-postgresql/) | From data definition to manipulation (CRUD, relations, JOIN): Learn SQL for MySQL, Postgresql & more from the ground up! |          |
-| [React - The complete guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) |  | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&logoWidth=20)         |
-| [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/) |  |          |
-| [Accelerated ES6 JavaScript training](https://www.udemy.com/course/es6-bootcamp-next-generation-javascript/) |  |          |
-| [Next.js & React - The complete guide](https://www.udemy.com/course/nextjs-react-the-complete-guide/) |  |          |
-| [JavaScript web projects: 20 projects to build your portfolio](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/) |  |          |
+| [React - The complete guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) | Dive in and learn React.js from scratch! Learn React, Hooks, Redux, React Router, Next.js, Best Practices and way more! | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&logoWidth=20)         |
+| [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/) | Boost your JavaScript projects with TypeScript: Learn all about core types, generics, TypeScript + React or Node & more! |          |
+| [Accelerated ES6 JavaScript training](https://www.udemy.com/course/es6-bootcamp-next-generation-javascript/) | Learn and Use the Future of JavaScript |          |
+| [Next.js & React - The complete guide](https://www.udemy.com/course/nextjs-react-the-complete-guide/) | Learn NextJS from the ground up and build production-ready, fullstack ReactJS apps with the NextJS framework! |          |
+| [JavaScript web projects: 20 projects to build your portfolio](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/) | Modern HTML5, CSS3, and JavaScript to build Responsive and Mobile Friendly projects for your dream portfolio and resume! |          |
 | [Docker & Kubernetes: The practical guide](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/) |  |          |
-| [Git & Github - The practical guide](https://www.udemy.com/course/git-github-practical-guide/) |  |          |
-| [Beginning C++ programming - From beginner to beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/) |  |          |
-| [Operating Systems from scratch - Part 1](https://www.udemy.com/course/operating-systems-from-scratch-part1/) |  |          |
-| [JavaScript unit testing - The practical guide](https://www.udemy.com/course/javascript-unit-testing-the-practical-guide/) |  |          |
+| [Git & Github - The practical guide](https://www.udemy.com/course/git-github-practical-guide/) | Learn Git & GitHub and master working with commits, branches, the stash, cherry picking, rebasing, pull requests & more! |          |
+| [Beginning C++ programming - From beginner to beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/) | Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C++17 covered. C++20 info see below. |          |
+| [Operating Systems from scratch - Part 1](https://www.udemy.com/course/operating-systems-from-scratch-part1/) | Learn the concepts of Operating Systems from scratch as Operating System forms the core of Computer Science |          |
+| [JavaScript unit testing - The practical guide](https://www.udemy.com/course/javascript-unit-testing-the-practical-guide/) | Learn how to write automated tests (unit & integration tests) for your JavaScript projects with Vitest & Jest. |          |
 | [Ultimate AWS certified cloud practitioner](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/) | Full Practice Exam included + explanations. Learn Cloud Computing. Pass the AWS Cloud Practitioner CLF-C01/C02 exam! |          |
-| [React Native - The practical guide](https://www.udemy.com/course/react-native-the-practical-guide/) |  |          |
-| [ChatGPT - The Complete Guide to ChatGPT & OpenAI APIs](https://www.udemy.com/course/chatgpt-bard-bing-complete-guide-to-chatgpt-openai-apis/) |  |          |
-| [Node JS: Advanced concepts](https://www.udemy.com/course/advanced-node-for-developers/) |  |          |
+| [React Native - The practical guide](https://www.udemy.com/course/react-native-the-practical-guide/) | Use React Native and your React knowledge to build native iOS and Android Apps - incl. Push Notifications, Hooks, Redux |          |
+| [ChatGPT - The Complete Guide to ChatGPT & OpenAI APIs](https://www.udemy.com/course/chatgpt-bard-bing-complete-guide-to-chatgpt-openai-apis/) | 10x your productivity by using ChatGPT & OpenAI APIs efficiently. Learn Midjourney, prompt engineering, AutoGPT & more! |          |
+| [Node JS: Advanced concepts](https://www.udemy.com/course/advanced-node-for-developers/) | Get advanced with Node.Js! Learn caching with Redis, speed up through clustering, and add image upload with S3 and Node! |          |
 | [CMU 15213/15513 CSAPP](https://www.youtube.com/watch?v=ScMxnXq6fbI&list=PLcQU3vbfgCc9sVAiHf5761UUApjZ3ZD3x&pp=iAQB) |  |          |
-| [C programming for beginners - Master the C language](https://www.udemy.com/course/c-programming-for-beginners-/) |  |          |
-| [FFmpeg - The complete guide](https://www.udemy.com/course/ffmpeg-the-complete-guide/) |  |          |
-| [Design Patterns in JavaScript](https://www.udemy.com/course/design-patterns-javascript/) |  |          |
-| [Flutter & Dart - The complete guide](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) |  |          |
-| [NestJS: The complete developer’s guide](https://www.udemy.com/course/nestjs-the-complete-developers-guide/) |  |          |
-| [Software architecture & technology of large-scale systems](https://www.udemy.com/course/developer-to-architect/) |   |          |
-| [Complete Linux training course](https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/) |  |          |
+| [C programming for beginners - Master the C language](https://www.udemy.com/course/c-programming-for-beginners-/) | C Programming will increase career options. Become a better dev in other languages by learning C. Pointers explained |          |
+| [FFmpeg - The complete guide](https://www.udemy.com/course/ffmpeg-the-complete-guide/) | Comprehensive introduction to FFmpeg, media transcoding and streaming, with practical examples and hands-on demos |          |
+| [Design Patterns in JavaScript](https://www.udemy.com/course/design-patterns-javascript/) | Discover the modern implementation of design patterns in JavaScript |          |
+| [Flutter & Dart - The complete guide](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) | A Complete Guide to the Flutter SDK & Flutter Framework for building native iOS and Android apps |          |
+| [NestJS: The complete developer’s guide](https://www.udemy.com/course/nestjs-the-complete-developers-guide/) | Build full featured backend APIs incredibly quickly with Nest, TypeORM, and Typescript. Includes testing and deployment! |          |
+| [Software architecture & technology of large-scale systems](https://www.udemy.com/course/developer-to-architect/) | Learn Architecting Software Systems with High Performance, Scalability, Availability, Security using Modern Technologies  |          |
+| [Complete Linux training course](https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/) | The BEST Linux Administration course that prepares you for corporate jobs and for RHCSA, RHCE, LFCS, CLNP certifications |          |
 | [Clean code](https://www.udemy.com/course/writing-clean-code/) |  |          |
-| [PMP Certification Exam Prep Course 35 PDU](https://www.udemy.com/course/pmp-certification-exam-prep-course-pmbok-6th-edition/) |  |          |
-| [DevOps beginners to advanced](https://www.udemy.com/course/decodingdevops/) |  |          |
-| [Ethereum and Solidity: The complete developer’s guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/) |  |          |
-| [A complete guide to the JAMstack and React E-commerce](https://www.udemy.com/course/a-complete-guide-to-the-jamstack-and-react-e-commerce/) |  |          |
-| [Typescript: The complete developer’s guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/) |  |          |
-| [Microservices with Node JS and React](https://www.udemy.com/course/microservices-with-node-js-and-react/) |  |          |
+| [PMP Certification Exam Prep Course 35 PDU](https://www.udemy.com/course/pmp-certification-exam-prep-course-pmbok-6th-edition/) | Get your PMP Certification with this course. Fully updated for the 2023 PMP Exam |          |
+| [DevOps beginners to advanced](https://www.udemy.com/course/decodingdevops/) | Begin DevOps Career As an Absolute Beginner | Linux, AWS, Scripting, Jenkins, Ansible, Docker, K8s, Projects & ChatGPT |          |
+| [Ethereum and Solidity: The complete developer’s guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/) | Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based on the blockchain |          |
+| [A complete guide to the JAMstack and React E-commerce](https://www.udemy.com/course/a-complete-guide-to-the-jamstack-and-react-e-commerce/) | Master next-generation full stack architecture: best speed, security, and scalability with React, Gatsby, and Strapi. |          |
+| [Typescript: The complete developer’s guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/) | Master Typescript by learning popular design patterns and building complex projects. Includes React and Express! |          |
+| [Microservices with Node JS and React](https://www.udemy.com/course/microservices-with-node-js-and-react/) | Build, deploy, and scale an E-Commerce app using Microservices built with Node, React, Docker and Kubernetes |          |
 | [100 days of code: The complete Python pro bootcamp](https://nlbsg.udemy.com/course/100-days-of-code/) | Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps! | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&logoWidth=20) |
 
 
