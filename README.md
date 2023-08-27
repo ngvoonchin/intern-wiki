@@ -1,4 +1,4 @@
-# Intern Wiki
+# SWE Intern Wiki
 
 ### _The complete guide for self-learning_
 
@@ -8,7 +8,7 @@
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university) - Multi-month study plan for becoming a software engineer for a large company.
 - [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses) - List of awesome university courses for learning Computer Science!
 
-## Resources
+## Online Learning Resources
 
 | Course | Description | Category |
 |---|---|---|
@@ -54,6 +54,10 @@
 | [Microservices with Node JS and React](https://www.udemy.com/course/microservices-with-node-js-and-react/) | Build, deploy, and scale an E-Commerce app using Microservices built with Node, React, Docker and Kubernetes | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&logoWidth=20) |
 | [100 days of code: The complete Python pro bootcamp](https://nlbsg.udemy.com/course/100-days-of-code/) | Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps! | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&logoWidth=20) |
 
+## Read more books
+
+| Book | Description | Category |
+|---|---|---|
 
 
 ![.ENV](https://img.shields.io/badge/-.ENV-ECD53F?logo=dotenv&logoColor=white&logoWidth=20)
