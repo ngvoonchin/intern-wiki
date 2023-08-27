@@ -10,8 +10,8 @@
 
 ## Resources
 
-| Course                                                                                                              | Description                                                                                                         | Category |    |
-|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|----------|
+| Course | Description | Category |
+|---|---|---|
 | [Crash Course Electronics and PCB Design](https://www.udemy.com/course/crash-course-electronics-and-pcb-design/) | Learn Electronics and PCB Design from the Ground up with Altium CircuitMaker and Labcenter Proteus                  | Udemy    |
 | [Introduction to Computer Networks for Non-Techies](https://www.udemy.com/course/introduction-to-computer-networks/) | Learn the Fundamentals of Computer Networking for Non-Techies                                                    | Udemy    |
 | [Machine Learning A-Z™: AI, Python & R + ChatGPT Bonus 2023](https://www.udemy.com/course/machinelearning/) | Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included. | Udemy    |
