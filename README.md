@@ -56,17 +56,20 @@
 
 ## Read more books
 
+### Computer Science
+
+| Book | Author |
+|---|---|
+| Computer Systems: A Programmer's Perspective | Randal E. Bryant, David R. O'Hallaron |
+| Structure and Interpretation of Computer Programs | Gerald Jay Sussman, Hal Abelson, Julie Sussman |
+
 ### System design
 
 | Book | Author |
 |---|---|
 | System Design Interview: An Insider’s Guide | Alex Xu |
-|  |  |
-
-| Book | Author |
-|---|---|
-|  |  |
-|  |  |
+| System Design Interview - An Insider's Guide: Volume 2 | Sahn Lam, Alex Xu |
+| Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems | Martin Kleppmann |
 
 
 ![.ENV](https://img.shields.io/badge/-.ENV-ECD53F?logo=dotenv&logoColor=white&logoWidth=20)
