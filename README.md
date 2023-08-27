@@ -18,7 +18,7 @@
 | [The Complete 2023 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) | Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps | Udemy    |
 | [Build responsive real-world websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) | Learn modern HTML5, CSS3 and web design by building a stunning website for your portfolio! Includes flexbox and CSS Grid | Udemy    |
 | [Advanced CSS and SASS](https://www.udemy.com/course/advanced-css-and-sass/) | The most advanced and modern CSS course on the internet: master flexbox, CSS Grid, responsive design, and so much more. | Udemy    |    |
-| [MongoDB - The complete developer’s guide](https://www.udemy.com/course/mongodb-the-complete-developers-guide/) |  | Udemy    |    
+| [MongoDB - The complete developer’s guide](https://www.udemy.com/course/mongodb-the-complete-developers-guide/) | Master MongoDB Development for Web & Mobile Apps. CRUD Operations, Indexes, Aggregation Framework | Udemy    |    
 | [JavaScript: The advanced concepts](https://www.udemy.com/course/advanced-javascript-concepts/) | Learn modern advanced JavaScript practices and be in the top 10% of JavaScript developers |          |
 | [NodeJS - The complete guide](https://www.udemy.com/course/nodejs-the-complete-guide/) | Master Node JS & Deno.js, build REST APIs with Node.js, GraphQL APIs, add Authentication, use MongoDB, SQL & much more! |          |
 | [Master the coding interview: Big tech (FAANG) interviews](https://www.udemy.com/course/master-the-coding-interview-big-tech-faang-interviews/) | Ace the Google, Amazon, Meta, Microsoft, Netflix coding interviews. Step by step guide for their toughest questions! |          |
@@ -28,7 +28,7 @@
 | [Accelerated ES6 JavaScript training](https://www.udemy.com/course/es6-bootcamp-next-generation-javascript/) | Learn and Use the Future of JavaScript |          |
 | [Next.js & React - The complete guide](https://www.udemy.com/course/nextjs-react-the-complete-guide/) | Learn NextJS from the ground up and build production-ready, fullstack ReactJS apps with the NextJS framework! |          |
 | [JavaScript web projects: 20 projects to build your portfolio](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/) | Modern HTML5, CSS3, and JavaScript to build Responsive and Mobile Friendly projects for your dream portfolio and resume! |          |
-| [Docker & Kubernetes: The practical guide](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/) |  |          |
+| [Docker & Kubernetes: The practical guide](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/) | Learn Docker, Docker Compose, Multi-Container Projects, Deployment and all about Kubernetes from the ground up! |          |
 | [Git & Github - The practical guide](https://www.udemy.com/course/git-github-practical-guide/) | Learn Git & GitHub and master working with commits, branches, the stash, cherry picking, rebasing, pull requests & more! |          |
 | [Beginning C++ programming - From beginner to beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/) | Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C++17 covered. C++20 info see below. |          |
 | [Operating Systems from scratch - Part 1](https://www.udemy.com/course/operating-systems-from-scratch-part1/) | Learn the concepts of Operating Systems from scratch as Operating System forms the core of Computer Science |          |
@@ -45,7 +45,7 @@
 | [NestJS: The complete developer’s guide](https://www.udemy.com/course/nestjs-the-complete-developers-guide/) | Build full featured backend APIs incredibly quickly with Nest, TypeORM, and Typescript. Includes testing and deployment! |          |
 | [Software architecture & technology of large-scale systems](https://www.udemy.com/course/developer-to-architect/) | Learn Architecting Software Systems with High Performance, Scalability, Availability, Security using Modern Technologies  |          |
 | [Complete Linux training course](https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/) | The BEST Linux Administration course that prepares you for corporate jobs and for RHCSA, RHCE, LFCS, CLNP certifications |          |
-| [Clean code](https://www.udemy.com/course/writing-clean-code/) |  |          |
+| [Clean code](https://www.udemy.com/course/writing-clean-code/) | Learn how to write readable, understandable and therefore maintainable code - step by step, in an example-driven way |          |
 | [PMP Certification Exam Prep Course 35 PDU](https://www.udemy.com/course/pmp-certification-exam-prep-course-pmbok-6th-edition/) | Get your PMP Certification with this course. Fully updated for the 2023 PMP Exam |          |
 | [DevOps beginners to advanced](https://www.udemy.com/course/decodingdevops/) | Begin DevOps Career As an Absolute Beginner | Linux, AWS, Scripting, Jenkins, Ansible, Docker, K8s, Projects & ChatGPT |          |
 | [Ethereum and Solidity: The complete developer’s guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/) | Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based on the blockchain |          |
